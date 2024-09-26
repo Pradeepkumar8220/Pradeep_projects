@@ -1,0 +1,36 @@
+a {
+	text-decoration: none;
+}
+
+.header {
+	padding: 12px;
+	margin: 6px;
+	border-radius: 10px;
+	text-align: center;
+	color: white;
+	background-color: brown;
+}
+
+h2 {
+	color: blanchedalmond;
+	background-color: navy;
+}
+
+p {
+	font-size: 20px;
+	text-wrap: wrap;
+}
+
+ul {
+	font-size: 20px;
+	text-wrap: wrap;
+	list-style-type: circle;
+}
+
+#top {
+	text-decoration: none;
+}
+
+.info {
+	display: inline-block;
+}
